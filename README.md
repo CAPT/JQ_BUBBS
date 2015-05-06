@@ -1,4 +1,1 @@
-jQuery_Bubbles
-==============
-
-jQuery_Bubbles
+Making bubbs bubbling 
